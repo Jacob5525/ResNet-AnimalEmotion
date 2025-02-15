@@ -14,3 +14,5 @@ Loss=0.017485028132796288, Batch_id=46 Accuracy=99.87%
 current Learning Rate: 1.0000000000000002e-06
 Test set: Average loss: 0.1414, Accuracy: 18/32 (56.25%)
 
+### Training Results
+![Training and Test Results](results.png)
